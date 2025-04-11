@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4B4&height=200§ion=header&text=Mahmoud%20Elsayed&fontSize=50&animation=fadeIn&fontColor=FFFFFF" alt="Header Banner" />
+</p>
+
 <h1 align="center">
-  👋 Hi, I'm Mahmoud Elsayed!
+  👋 Hey There, I’m Mahmoud Elsayed!
 </h1>
 
 <p align="center">
@@ -7,18 +11,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Mobile%20App%20Enthusiast;Problem%20Solver;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=440&height=45&color=00C4B4&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Cross-Platform%20Wizard;Tech%20Innovator;Always%20Coding%20%26%20Learning&font=Fira%20Code¢er=true&width=440&height=45&color=00C4B4&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
-  <strong>Flutter Developer | Building Cross-Platform Apps | Passionate About Tech & Innovation</strong>
+  <strong>Flutter Developer | Crafting Seamless Mobile Experiences | Passionate About Tech & Innovation</strong>
 </p>
 
 ---
 
 ## 🌟 About Me
-- 💻 I’m a **Flutter Developer** with a deep passion for crafting seamless mobile applications for Android and iOS.
-- 🚀 I thrive on solving real-world problems through clean, efficient code and user-friendly designs.
+- 💻 I’m a **Flutter Developer** obsessed with building stunning, cross-platform mobile apps for Android and iOS.
+- 🚀 I love turning ideas into reality through clean code, intuitive designs, and cutting-edge tech.
 - 📚 Currently pursuing a **B.S. in Computer Science** at Mansoura University, Egypt.
 - 🌍 Based in **Dakahlia, Egypt**.
 - 📫 Reach me at: **elsayedmahmoud763@gmail.com** | **+201093961457**.
@@ -33,46 +37,57 @@
 ---
 
 ## 🚀 Featured Projects
-### 🌌 **SpaceX Explorer App**
+### 🌌 **SpaceX Explorer App**  
 A dynamic app leveraging the **SpaceX API** to deliver an immersive space exploration experience. Features include rocket countdowns, mission details, and crew profiles.  
 - **Tech Stack**: Flutter, REST APIs, Bloc, Firebase Authentication, Dio, Retrofit, Cached Network Image.  
-- **Highlights**: Optimized performance with efficient data fetching and caching.
+- **Highlights**: Optimized performance with efficient data fetching and caching.  
 
-### 📚 **Book App**
+### 📚 **Book App**  
 An interactive book browsing app powered by the **Google Books API**. Users can search for books, view detailed info (titles, authors, descriptions), and enjoy a seamless UI.  
 - **Tech Stack**: Flutter, REST APIs, Clean Architecture.  
-- **Highlights**: Designed with a focus on user experience and smooth navigation.
+- **Highlights**: Designed with a focus on user experience and smooth navigation.  
 
-### 🧘 **Tranquilo**
+### 🧘 **Tranquilo**  
 An anxiety management app with **AI-driven surveys** to assess users' anxiety levels. Includes authentication, personalized daily routines, a chatbot, and a community space.  
 - **Tech Stack**: Flutter, flutter_bloc, Dio, Retrofit, GetIt, Secure Storage.  
-- **Highlights**: Personalized user experience with real-time support features.
+- **Highlights**: Personalized user experience with real-time support features.  
 
 <p align="center">
-  <a href="https://github.com/mahmoud-elsay?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/mahmoud-elsay?tab=repositories"><img src="https://img.shields.io/badge/Explore%20More%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+---
+
+## 🛠️ Currently Working On
+- 🌟 Building a **Personal Finance App** using Flutter and Supabase to help users track expenses and set budgets.
+- 📖 Contributing to open-source Flutter projects to give back to the community.
+- 🧠 Learning **GraphQL** to enhance my API integration skills.
 
 ---
 
 ## 💻 Tech Stack
 ### Languages & Frameworks
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
 ### Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
 
 ### Skills & Concepts
-- **Databases**: Hive, SQFlite
-- **State Management**: Bloc, Riverpod
-- **Architecture**: Clean Architecture, SOLID Principles, OOP
-- **APIs & Networking**: Dio, Retrofit, REST APIs
+- **Databases**: Hive, SQFlite  
+- **State Management**: Bloc, Riverpod  
+- **Architecture**: Clean Architecture, SOLID Principles, OOP  
+- **APIs & Networking**: Dio, Retrofit, REST APIs  
 - **Other**: Dependency Injection (GetIt), Design Patterns (Observer, Strategy, Adapter)
 
 ---
@@ -81,12 +96,6 @@ An anxiety management app with **AI-driven surveys** to assess users' anxiety le
 - **B.S. in Computer Science**  
   Mansoura University, Mansoura, Egypt  
   2021 - Present
-
-## 🏆 Certifications
-- **Flutter Developer Training**  
-  ITI (National Telecommunications Institute), Mansoura, Egypt  
-  Jul 2024 - Aug 2024  
-  - Mastered Dart, Flutter UI, local databases (Hive, SQFlite), APIs, state management, and Firebase integration.
 
 ---
 
@@ -111,7 +120,7 @@ An anxiety management app with **AI-driven surveys** to assess users' anxiety le
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud-elsay&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-elsay&theme=dracula" alt="Profile Summary"/>
 </p>
 
 <p align="center">
@@ -120,9 +129,14 @@ An anxiety management app with **AI-driven surveys** to assess users' anxiety le
 
 ---
 
-## 🌟 Let’s Connect!
-I’m always excited to collaborate on innovative projects or discuss tech ideas. Feel free to reach out!
+## 🌟 Let’s Build Something Amazing Together!
+I’m always excited to collaborate on innovative projects, contribute to open-source, or just chat about tech. Let’s connect and create something extraordinary!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-elsayed-/" target="_blank"><img src="https://img.shields.io/badge/Let’s%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:elsayedmahmoud763@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Send%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4B4&height=100§ion=footer" alt="Footer Banner"/>
 </p>
