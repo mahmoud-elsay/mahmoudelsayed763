@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Cross-Platform%20Wizard;Always%20Coding%20%26%20Learning&font=Fira%20Code¢er=true&width=440&height=45&color=00C4B4&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Cross-Platform%20Wizard;Always%20Coding%20%26%20Learning&font=Fira%20Code¢er=true&width=440&height=45&color=FF6C37&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
@@ -19,14 +19,14 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahmoud-elsay.mahmoudelsayed763&left_color=teal&right_color=black" alt="Visitor Badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahmoud-elsay.mahmoudelsayed763&left_color=orange&right_color=black" alt="Visitor Badge"/>
 </p>
 
 ---
 
 ## 🌟 About Me
-- 💻 I’m a **Flutter Developer** obsessed with building stunning, cross-platform mobile apps for Android and iOS.
-- 🚀 I love turning ideas into reality through clean code, intuitive designs, and cutting-edge tech.
+- 💻 I’m a **Flutter Developer** dedicated to building stunning, cross-platform mobile apps for Android and iOS.
+- 🚀 I focus on delivering clean code, intuitive designs, and efficient solutions using modern tech.
 - 📚 Currently pursuing a **B.S. in Computer Science** at Mansoura University, Egypt.
 - 🌍 Based in **Dakahlia, Egypt**.
 - 📫 Reach me at: **elsayedmahmoud763@gmail.com** | **+201093961457**.
@@ -35,14 +35,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-elsayed-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:elsayedmahmoud763@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.github.com/mahmoud-elsay" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mahmoud-elsay?logo=github&style=for-the-badge&color=00C4B4&labelColor=1A1A1A" title="Follow me to get the updates!"/></a>
+  <a href="https://www.github.com/mahmoud-elsay" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mahmoud-elsay?logo=github&style=for-the-badge&color=FF6C37&labelColor=1A1A1A" title="Follow me to get the updates!"/></a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 ### 🌌 **SpaceX Explorer App**  
-A dynamic app leveraging the **SpaceX API** to deliver an immersive space exploration experience. Features include rocket countdowns, mission details, and crew profiles.  
+A dynamic app using the **SpaceX API** to create an immersive space exploration experience. Features rocket countdowns, mission details, and crew profiles.  
 - **Tech Stack**: Flutter, REST APIs, Bloc, Firebase Authentication, Dio, Retrofit, Cached Network Image.  
 - **Highlights**: Optimized performance with efficient data fetching and caching.  
 
@@ -64,10 +64,18 @@ An anxiety management app with **AI-driven surveys** to assess users' anxiety le
 
 ## 🌍 Notable Contributions
 - **ITI Training Projects**  
-  Contributed to team projects during my Flutter Developer training at ITI (National Telecommunications Institute), building apps with real-world applications using Flutter, Firebase, and REST APIs.
+  Collaborated on team projects during my Flutter Developer training at ITI (National Telecommunications Institute), building apps with real-world applications using Flutter, Firebase, and REST APIs.
 
-- **Open-Source Contributions**  
+- **Open-Source Exploration**  
   Actively exploring open-source Flutter projects, focusing on enhancing UI/UX and optimizing performance.
+
+---
+
+## ⚙️ My Workflow
+- **Plan & Design**: I start by planning the app’s architecture using **Clean Architecture** and **SOLID Principles** to ensure scalability and maintainability.
+- **State Management**: I leverage **Bloc** or **Riverpod** for efficient state management, ensuring a reactive and smooth user experience.
+- **Data Integration**: I use **Dio** and **Retrofit** for API calls, and **Hive** or **SQFlite** for local data storage, optimizing for performance.
+- **Testing & Deployment**: I test with tools like **Postman** for APIs and deploy with **Firebase** for authentication and cloud storage.
 
 ---
 
@@ -89,12 +97,13 @@ An anxiety management app with **AI-driven surveys** to assess users' anxiety le
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
-### Skills & Concepts
-- **Databases**: Hive, SQFlite  
-- **State Management**: Bloc, Riverpod  
-- **Architecture**: Clean Architecture, SOLID Principles, OOP  
-- **APIs & Networking**: Dio, Retrofit, REST APIs  
-- **Other**: Dependency Injection (GetIt), Design Patterns (Observer, Strategy, Adapter)
+---
+
+## 🛠️ Tech I Love
+- **Flutter**: For its fast development and beautiful UI capabilities.
+- **Firebase**: For seamless authentication and real-time database features.
+- **Dio & Retrofit**: For efficient API handling and data fetching.
+- **Bloc**: For robust state management in Flutter apps.
 
 ---
 
@@ -122,7 +131,7 @@ An anxiety management app with **AI-driven surveys** to assess users' anxiety le
 </p>
 
 <p align="center">
-  <a href="https://www.github.com/mahmoud-elsay" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mahmoud-elsay?logo=github&style=for-the-badge&color=00C4B4&labelColor=1A1A1A&cacheBust=1" title="Follow me to get the updates!"/></a>
+  <a href="https://www.github.com/mahmoud-elsay" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mahmoud-elsay?logo=github&style=for-the-badge&color=FF6C37&labelColor=1A1A1A&cacheBust=1" title="Follow me to get the updates!"/></a>
 </p>
 
 <p align="center">
@@ -130,7 +139,7 @@ An anxiety management app with **AI-driven surveys** to assess users' anxiety le
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00C4B4/mahmoud-elsay" alt="Contributions Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-elsay&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" width="80%"/>
 </p>
 
 <p align="center">
