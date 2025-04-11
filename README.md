@@ -58,13 +58,6 @@ An anxiety management app with **AI-driven surveys** to assess users' anxiety le
 
 ---
 
-## 🛠️ Currently Working On
-- 🌟 Building a **Personal Finance App** using Flutter and Supabase to help users track expenses and set budgets.
-- 📖 Contributing to open-source Flutter projects to give back to the community.
-- 🧠 Learning **GraphQL** to enhance my API integration skills.
-
----
-
 ## 💻 Tech Stack
 ### Languages & Frameworks
 <p align="center">
@@ -112,7 +105,7 @@ An anxiety management app with **AI-driven surveys** to assess users' anxiety le
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-elsay&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-elsay&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=&custom_title=Top%20Languages%20(Including%20Org%20Contributions)" alt="Top Languages" width="350"/>
 </p>
 
 <p align="center">
