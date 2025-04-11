@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4B4&height=200§ion=header&text=Mahmoud%20Elsayed&fontSize=50&animation=fadeIn&fontColor=FFFFFF" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Mahmoud%20Elsayed&fontSize=50&animation=fadeIn&fontColor=FFFFFF" alt="Header Banner" />
 </p>
 
 <h1 align="center">
@@ -11,11 +11,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Cross-Platform%20Wizard;Tech%20Innovator;Always%20Coding%20%26%20Learning&font=Fira%20Code¢er=true&width=440&height=45&color=00C4B4&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Cross-Platform%20Wizard;Always%20Coding%20%26%20Learning&font=Fira%20Code¢er=true&width=440&height=45&color=00C4B4&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
-  <strong>Flutter Developer | Crafting Seamless Mobile Experiences | Passionate About Tech & Innovation</strong>
+  <strong>Flutter Developer | Crafting Seamless Mobile Experiences | Passionate About Code & Tech</strong>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahmoud-elsay.mahmoudelsayed763&left_color=teal&right_color=black" alt="Visitor Badge"/>
 </p>
 
 ---
@@ -55,6 +59,15 @@ An anxiety management app with **AI-driven surveys** to assess users' anxiety le
 <p align="center">
   <a href="https://github.com/mahmoud-elsay?tab=repositories"><img src="https://img.shields.io/badge/Explore%20More%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+---
+
+## 🌍 Notable Contributions
+- **ITI Training Projects**  
+  Contributed to team projects during my Flutter Developer training at ITI (National Telecommunications Institute), building apps with real-world applications using Flutter, Firebase, and REST APIs.
+
+- **Open-Source Contributions**  
+  Actively exploring open-source Flutter projects, focusing on enhancing UI/UX and optimizing performance.
 
 ---
 
@@ -100,12 +113,12 @@ An anxiety management app with **AI-driven surveys** to assess users' anxiety le
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-elsay&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Mahmoud's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-elsay&theme=radical&hide_border=true" alt="Mahmoud's GitHub streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-elsay&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="Mahmoud's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-elsay&theme=dracula&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="Mahmoud's GitHub streak" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-elsay&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=&custom_title=Top%20Languages%20(Including%20Org%20Contributions)" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-elsay&layout=compact&theme=dracula&hide_border=true&langs_count=8&exclude_repo=&custom_title=Top%20Languages%20(Including%20Org%20Contributions)" alt="Top Languages" width="350"/>
 </p>
 
 <p align="center">
@@ -117,13 +130,17 @@ An anxiety management app with **AI-driven surveys** to assess users' anxiety le
 </p>
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/00C4B4/mahmoud-elsay" alt="Contributions Graph"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/SakerDakak/SakerDakak/18c8e620265b49dbcc664d11c6dd0cb88a2a87fd/Images/github-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
 
 ## 🌟 Let’s Build Something Amazing Together!
-I’m always excited to collaborate on innovative projects, contribute to open-source, or just chat about tech. Let’s connect and create something extraordinary!
+I’m always excited to collaborate on impactful projects, contribute to open-source, or just chat about tech. Let’s connect and create something extraordinary!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-elsayed-/" target="_blank"><img src="https://img.shields.io/badge/Let’s%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -131,5 +148,5 @@ I’m always excited to collaborate on innovative projects, contribute to open-s
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4B4&height=100§ion=footer" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer" alt="Footer Banner"/>
 </p>
